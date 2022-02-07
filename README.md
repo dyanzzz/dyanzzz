@@ -1,5 +1,5 @@
 <p align="center">
- <img width="200px" src="https://raw.githubusercontent.com/imucreative/Web-imucreative/master/templ/upld/logo.png?token=GHSAT0AAAAAABHTZRA7X5PG5MCBSHKI6ZD4YQAU4OA" align="center" alt="Github Readme Stats" />
+ <img width="200px" src="https://raw.githubusercontent.com/dyanzzz/dyanzzz/main/logo.png" align="center" alt="Github Readme Stats" />
  <h2 align="center"></h2>
 </p>
 
