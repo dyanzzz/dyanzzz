@@ -26,7 +26,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <p align="center">
 <a href="https://imucreative.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://imucreative.github.io/-purple?style=flat&logo=google-chrome"></a>
-<a href="https://linkedin.com/in/dian-tri-budianto-661bab64" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dian%20Tri%20Budianto-blue?style=flat&logo=linkedin"></a>
+<a href="https://linkedin.com/in/dian-tri-budianto" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dian%20Tri%20Budianto-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:dian.trib@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dian.trib@gmail.com-green?style=flat&logo=gmail"></a>
 <a href="https://github.com/imucreative"><img alt="Github" src="https://img.shields.io/badge/Github-IMU%20Creative-grey?style=flat&logo=github"></a>
 </p>
